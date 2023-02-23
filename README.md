@@ -1,3 +1,3 @@
 # Thao Tran
-# MS Business Analytics - Class of 2023 
+# MS Business Analytics - Portfolio Project
 # California Polytechnic State University, Pomona
